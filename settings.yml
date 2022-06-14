@@ -7,3 +7,11 @@ contribute_button_color:
     - yellow
     - green
     - blue
+
+contribute_text_color:
+  default: white
+  type: enum
+  description: "Set color of text for button (should probably be white for any button color but yellow)."
+  choices:
+    - white
+    - black
