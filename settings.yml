@@ -1,0 +1,9 @@
+contribute_button_color:
+  default: green
+  type: enum
+  description: "Set color based on level of reserves as determined by the tiaa-forum.org Treasurer."
+  choices:
+    - red
+    - yellow
+    - green
+    - blue
