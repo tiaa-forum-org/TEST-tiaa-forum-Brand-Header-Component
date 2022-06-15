@@ -2,7 +2,7 @@
 
 #tiaa-contrib-button {
     background: $contribute_button_color;
-    color: white; // white is a better text color except for yellow...
+    color: $contribute_text_color; // white is a better text color except for yellow...
 }
 /* don't display admin and site information if not logged in */
 .html.anon li.nav-item-about {
